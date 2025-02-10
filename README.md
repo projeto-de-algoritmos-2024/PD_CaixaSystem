@@ -33,13 +33,13 @@ O principal desafio foi garantir a responsividade da interface e a precisão do 
 Aqui estão algumas imagens que mostram o app em funcionamento:
 
 1. **Tela de Produtos:**
-   ![Produtos](assets/tela_produtos.png)
+   ![Produtos](assets/images/tela_produtos.png)
 
 2. **Tela do Carrinho:**
-   ![Carrinho](assets/tela_carrinho.png)
+   ![Carrinho](assets/images/tela_carrinho.png)
 
 3. **Tela de Pagamento e Troco:**
-   ![Pagamento](assets/tela_pagamento.png)
+   ![Pagamento](assets/images/tela_pagamento.png)
 
 ## Instalação  
 
