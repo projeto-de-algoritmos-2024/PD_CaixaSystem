@@ -72,7 +72,8 @@ Aqui estão algumas imagens que mostram o app em funcionamento:
 
 As apresentações de cada entrega estão presentes nos hiperlinks a seguir:
 
-| [Entrega](https://youtu.be/qyiYN-fiM3w?si=oefVVOtYeHa6r2TN) | Caixa System |
+[![Apresentação](https://img.youtube.com/vi/BHqEPtWvDqU/0.jpg)](https://www.youtube.com/watch?v=BHqEPtWvDqU)
+
 
 ---
 
